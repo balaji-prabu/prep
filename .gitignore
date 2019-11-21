@@ -1,0 +1,11 @@
+*.jar
+*.log
+*.class
+**/logs
+bin/
+target/
+to be done
+**/test-output
+.classpath
+.project
+.settings/
